@@ -79,7 +79,6 @@
         row-gap: 1rem;
         column-gap: 1.5rem;
         grid-template-columns: repeat(2, calc(50% - 0.75rem));
-        grid-template-row: auto auto ;
     }
 
     .categorias__titulo {
